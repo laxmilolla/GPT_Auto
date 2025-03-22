@@ -1,0 +1,11 @@
+Case ID	Study Code	Study Type	Breed	Diagnosis	Stage Of Disease	Age	Sex	Neutered Status	Weight (kg)	Response to Treatment	Cohort
+COTC007B-0101	COTC007B	Clinical Trial	Boxer	Lymphoma	IIIa	10.1	Female	Yes		Partial Response	NSC 706744; 100mg/m2/day
+COTC007B-0201	COTC007B	Clinical Trial	Samoyed	Lymphoma	III	8	Female	Yes		Not Determined	NSC 725776; 3mg/m2/day
+COTC007B-0202	COTC007B	Clinical Trial	Golden Retriever	Lymphoma	III	10.3	Male	Yes		Progressive Disease	NSC 743400; 8mg/m2/day
+COTC007B-0203	COTC007B	Clinical Trial	Black and Tan Coonhound	Lymphoma	III	8	Male	Yes		Partial Response	NSC 706744; 25mg/m2/day
+COTC007B-0204	COTC007B	Clinical Trial	Australian Shepherd	none	III	10.6	Male	Yes		Progressive Disease	NSC 725776; 3mg/m2/day
+COTC007B-0205	COTC007B	Clinical Trial	Mixed Breed	Lymphoma	III	9.7	Female	Yes		Progressive Disease	NSC 725776; 3mg/m2/day
+COTC007B-0206	COTC007B	Clinical Trial	Golden Retriever	Lymphoma	III	5.9	Female	Yes		Partial Response	NSC 706744; 50mg/m2/day
+COTC007B-0207	COTC007B	Clinical Trial	Boxer	Lymphoma	III	10.2	Female	Yes		Stable Disease	NSC 725776; 6mg/m2/day
+COTC007B-0208	COTC007B	Clinical Trial	German Shepherd Dog	Lymphoma	III	7.3	Female	Yes		Complete Response	NSC 706744; 50mg/m2/day
+COTC007B-0209	COTC007B	Clinical Trial	Doberman Pinscher	Lymphoma	III	4.9	Male	Yes		Stable Disease	NSC 725776; 6mg/m2/day

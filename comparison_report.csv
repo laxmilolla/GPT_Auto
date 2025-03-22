@@ -1,0 +1,12 @@
+,case id,case id,study code,study code,study type,study type,breed,breed,diagnosis,diagnosis,stage of disease,stage of disease,age,age,sex,sex,neutered status,neutered status,weight (kg),weight (kg),response to treatment,response to treatment,cohort,cohort
+,self,other,self,other,self,other,self,other,self,other,self,other,self,other,self,other,self,other,self,other,self,other,self,other
+0,,,,,,,,,,,,,10.1,10.1,,,,,,,,,,
+1,,,,,,,,,,,,,8,8.0,,,,,,,,,,
+2,,,,,,,,,,,,,10.3,10.3,,,,,,,,,,
+3,,,,,,,,,,,,,8,8.0,,,,,,,,,,
+4,,,,,,,,,Lymphoma,none,,,10.6,10.6,,,,,,,,,,
+5,,,,,,,,,,,,,9.7,9.7,,,,,,,,,,
+6,,,,,,,,,,,,,5.9,5.9,,,,,,,,,,
+7,,,,,,,,,,,,,10.2,10.2,,,,,,,,,,
+8,,,,,,,,,,,,,7.3,7.3,,,,,,,,,,
+9,,,,,,,,,,,,,4.9,4.9,,,,,,,,,,
